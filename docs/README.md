@@ -6,7 +6,7 @@
 |---|---|
 |氏名|伊丹 滉人(Itami Hiroto)|
 |生年月日|1997/06/21|
-|Twitter|https://mobile.twitter.com/_hirovodka_|
+|Twitter|https://twitter.com/_hirovodka_|
 
 ---
 
