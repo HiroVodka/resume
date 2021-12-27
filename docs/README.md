@@ -72,18 +72,14 @@
 
 <https://blog.hirovodka.com/>
 
-
 ### 保有資格
 
-2021/06取得
+- 2021/06取得
+  - Ruby Association Certified Ruby Programmer Silver version 2.1
 
-Ruby Association Certified Ruby Programmer Silver version 2.1
+- 2021/12取得
+  - Ruby Association Certified Ruby Programmer Gold version 2.1
 
-2021/12取得
-
-Ruby Association Certified Ruby Programmer Gold version 2.1
-
-Ruby
 ### 意欲・興味
 
 - まずは小さく早く実装し、フィードバックを貰いながら改善するサイクルを回すような開発が好きです
